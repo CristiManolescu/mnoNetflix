@@ -3,3 +3,12 @@ export const BACKGROUND =
 
 export const PROFILE_PIC =
   "https://avatars.githubusercontent.com/u/40199080?v=4";
+
+export const API_OPTIONS = {
+  method: "GET",
+  headers: {
+    accept: "application/json",
+    Authorization:
+      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjNjY5NWU0MzNmMjFkNjhkZmU4ZWUzN2Y3NDFkYzlmYSIsInN1YiI6IjY1MjEyZjE5YzUwYWQyMDEyYzFkMDRlOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.NYLu3fjmQnJbT51a-O5-LGNS2EnCTi161hNJAMdi9j8",
+  },
+};

@@ -17,13 +17,16 @@ npm start
 
 - Created with Create React App.
 - Designed with TailWindCSS
+- Getting Movies data from TMDB API.
 - Routing of App - React Router (createBrowserRouter)
 - Form Validation - For Login/Register
 - Authentification system/Hosting using Firebase
-- State Management using Redux
+- State Management using Redux Toolkit
 
 ## Test user
 
+```
 cristimanolescu@icloud.com
 Test@test123
 Link: https://mnonetflix-6d110.web.app/
+```
