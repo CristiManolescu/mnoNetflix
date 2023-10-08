@@ -1,6 +1,6 @@
 # MNO Netflix
 
-An Netflix like application which uses ChatGPT for movies suggestions
+A Netflix like application which uses ChatGPT for movies suggestions
 
 ## Get started
 
