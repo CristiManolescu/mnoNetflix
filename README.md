@@ -22,6 +22,7 @@ npm start
 - Form Validation - For Login/Register
 - Authentification system/Hosting using Firebase
 - State Management using Redux Toolkit
+- Multiple language support (english/română/français)
 
 ## Test user
 
