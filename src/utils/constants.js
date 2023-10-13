@@ -20,3 +20,5 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "ro", name: "Română" },
   { identifier: "fr", name: "Français" },
 ];
+
+export const OPENAI_KEY = "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";
