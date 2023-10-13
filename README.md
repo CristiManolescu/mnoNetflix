@@ -23,6 +23,7 @@ npm start
 - Authentification system/Hosting using Firebase
 - State Management using Redux Toolkit
 - Multiple language support (english/română/français)
+- Movie Suggestions System using Open AI GPT API
 
 ## Test user
 
