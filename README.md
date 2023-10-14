@@ -25,6 +25,7 @@ npm start
 - Multiple language support (english/română/français)
 - Movie Suggestions System using Open AI GPT API
 - Used Memoization for API Calls
+- Responsive
 
 ## Test user
 
