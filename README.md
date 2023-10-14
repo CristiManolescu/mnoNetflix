@@ -24,6 +24,7 @@ npm start
 - State Management using Redux Toolkit
 - Multiple language support (english/română/français)
 - Movie Suggestions System using Open AI GPT API
+- Used Memoization for API Calls
 
 ## Test user
 
